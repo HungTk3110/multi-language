@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="bnt1">Enghlish</string>
+    <string name="bnt2">VietNam</string>
+    <string name="text">For example, if there is a LiveData object in the user interface that can be updated from a local or network database, you can add the following sources to the MediatorLiveData object:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to the Kotlin Basics course on Android! In this course, you will learn the basics of how to create Android apps using the Kotlin programming language. At the same time, you\'ll create a set of apps to begin your journey as an Android developer.</string>
+</resources>

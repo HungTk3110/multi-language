@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="bnt1">Tiếng Anh </string>
+    <string name="bnt2">Tiếng Việt</string>
+    <string name="text">Ví dụ, nếu có một đối tượng LiveData trong giao diện người dùng có thể được cập nhật từ cơ sở dữ liệu cục bộ hoặc mạng, thì bạn có thể thêm các nguồn sau vào đối tượng MediatorLiveData:</string>
+    <string name="hello_blank_fragment">Chào mừng bạn đến với khóa học Khái niệm cơ bản về Kotlin trên Android! Trong khóa học này, bạn sẽ tìm hiểu các thông tin cơ bản về cách tạo ứng dụng Android bằng ngôn ngữ lập trình Kotlin. Đồng thời, bạn sẽ tạo một tập hợp ứng dụng để bắt đầu hành trình trở thành nhà phát triển Android.</string>
+
+</resources>
